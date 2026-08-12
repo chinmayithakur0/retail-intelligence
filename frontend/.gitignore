@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+
+# Data files
+data/
+
+# Python
+__pycache__/
+*.pkl
+*.pyc
+*.db
+*.egg-info/
+
+# Node
+node_modules/
+build/
+dist/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
