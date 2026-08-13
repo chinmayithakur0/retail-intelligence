@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+xgboost
+python-dotenv
+sqlalchemy
+crewai
+langchain-community
+beautifulsoup4
+requests
+apscheduler
+prophet
