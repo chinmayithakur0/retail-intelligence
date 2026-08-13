@@ -2,7 +2,7 @@ fastapi
 uvicorn
 pandas
 numpy
-scikit-learn
+scikit-learn==1.3.2
 xgboost
 python-dotenv
 sqlalchemy
@@ -11,4 +11,3 @@ langchain-community
 beautifulsoup4
 requests
 apscheduler
-prophet
